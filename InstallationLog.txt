@@ -1,0 +1,84 @@
+************************************* Invoked: Sat Jun 3 20:58:27 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[37] Operations sanity check succeeded.
+[69] Language: en-US
+[69] Script file does not exist.
+[74] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 20:58:28 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[5] Operations sanity check succeeded.
+[30] Language: en-US
+[30] Script file does not exist.
+[32] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 20:58:29 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[4] Operations sanity check succeeded.
+[97] Language: en-US
+[98] Script file does not exist.
+[102] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 20:59:18 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[41] Operations sanity check succeeded.
+[62] Language: en-US
+[63] Script file does not exist.
+[67] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 20:59:19 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[4] Operations sanity check succeeded.
+[61] Language: en-US
+[62] Script file does not exist.
+[66] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 20:59:20 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[4] Operations sanity check succeeded.
+[59] Language: en-US
+[59] Script file does not exist.
+[62] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 21:05:40 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[26] Operations sanity check succeeded.
+[51] Language: en-US
+[51] Script file does not exist.
+[55] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 21:05:41 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[45] Operations sanity check succeeded.
+[79] Language: en-US
+[80] Script file does not exist.
+[83] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 21:05:42 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[4] Operations sanity check succeeded.
+[57] Language: en-US
+[58] Script file does not exist.
+[61] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 21:11:01 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[84] Operations sanity check succeeded.
+[135] Language: en-US
+[135] Script file does not exist.
+[139] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 21:11:04 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[18] Operations sanity check succeeded.
+[196] Language: en-US
+[197] Script file does not exist.
+[206] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Sat Jun 3 21:11:05 2023
+[0] Arguments: c:\Users\admin\Downloads\msys2-x86_64-20220603.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[34] Operations sanity check succeeded.
+[86] Language: en-US
+[86] Script file does not exist.
+[89] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
